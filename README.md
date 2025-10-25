@@ -1,7 +1,3 @@
-Here's a detailed and well-structured README for your Hangfire + MongoDB .NET application:
-
----
-
 # 🛠 Hangfire MongoDB Job Scheduler
 
 This project sets up a background job scheduler using [Hangfire](https://www.hangfire.io/) with [MongoDB](https://www.mongodb.com/) as the storage backend. It includes a recurring job, a dashboard for monitoring, and OpenAPI integration for development environments.
