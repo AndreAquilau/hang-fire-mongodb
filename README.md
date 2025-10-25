@@ -23,7 +23,7 @@ This project sets up a background job scheduler using [Hangfire](https://www.han
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hangfire-mongo-scheduler.git
+git clone https://github.com/AndreAquilau/hang-fire-mongodb
 cd hangfire-mongo-scheduler
 ```
 
